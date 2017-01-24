@@ -1,0 +1,92 @@
+C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/instruction_increment.v {1 {vlog -work work -stats=none C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/instruction_increment.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module instruction_increment
+
+Top level modules:
+	instruction_increment
+
+} {} {}} C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/memory.v {1 {vlog -work work -stats=none C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/memory.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module memory
+
+Top level modules:
+	memory
+
+} {} {}} C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Testbench/tb_instruction_incrementer.v {1 {vlog -work work -stats=none C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Testbench/tb_instruction_incrementer.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_instruction_incrementer
+
+Top level modules:
+	tb_instruction_incrementer
+
+} {} {}} C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/32_bit_adder.v {1 {vlog -work work -stats=none C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/32_bit_adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module adder_32_bit
+
+Top level modules:
+	adder_32_bit
+
+} {} {}} C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Testbench/tb_adder_32_bit.v.v {1 {vlog -work work -stats=none C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Testbench/tb_adder_32_bit.v.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_adder_32_bit
+
+Top level modules:
+	tb_adder_32_bit
+
+} {} {}} C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Testbench/tb_memory.v {1 {vlog -work work -stats=none C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Testbench/tb_memory.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_memory
+
+Top level modules:
+	tb_memory
+
+} {} {}} C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/program_counter.v {1 {vlog -work work -stats=none C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/program_counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module program_counter
+
+Top level modules:
+	program_counter
+
+} {} {}} C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/control.v {1 {vlog -work work -stats=none C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/control.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module memory
+
+Top level modules:
+	memory
+
+} {} {}} C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/mips.v {1 {vlog -work work -stats=none C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/mips.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mips
+
+Top level modules:
+	mips
+
+} {} {}} C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/adder_32_bit.v {1 {vlog -work work -stats=none C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/adder_32_bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module adder_32_bit
+
+Top level modules:
+	adder_32_bit
+
+} {} {}} C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Testbench/tb_program_counter.v {1 {vlog -work work -stats=none C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Testbench/tb_program_counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_program_counter
+
+Top level modules:
+	tb_program_counter
+
+} {} {}} C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/clock.v {1 {vlog -work work -stats=none C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/clock.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module clock
+
+Top level modules:
+	clock
+
+} {} {}} C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Testbench/tb_mips.v {1 {vlog -work work -stats=none C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Testbench/tb_mips.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_mips
+
+Top level modules:
+	tb_mips
+
+} {} {}}

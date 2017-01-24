@@ -1,0 +1,262 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/BilboBaggins/Documents/Verilog
+vadder_32_bit
+Z0 !s110 1485261760
+!i10b 1
+!s100 1LAgl>o^U`NI;Jf2H2m[30
+Iko8iS>BFKb:2=^9biM21X3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source
+w1484499323
+8C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/adder_32_bit.v
+FC:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/adder_32_bit.v
+L0 7
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1485261760.000000
+!s107 C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/adder_32_bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/adder_32_bit.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vclock
+Z7 !s110 1485261761
+!i10b 1
+!s100 ^=A=XocDKZi9UW3J`G`D20
+I9kXFklV]]PoKMc8EA7cl70
+R1
+R2
+w1484483427
+8C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/clock.v
+FC:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/clock.v
+L0 9
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/clock.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/clock.v|
+!i113 1
+R5
+R6
+vinstruction_increment
+R7
+!i10b 1
+!s100 ia8HIZ82Je8M4ba:C`zdl0
+I5O3JGz]nf6J]k[0XU@S690
+R1
+R2
+w1484592132
+8C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/instruction_increment.v
+FC:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/instruction_increment.v
+L0 7
+R3
+r1
+!s85 0
+31
+Z8 !s108 1485261761.000000
+!s107 C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/instruction_increment.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/instruction_increment.v|
+!i113 1
+R5
+R6
+vmemory
+Z9 !s110 1485261762
+!i10b 1
+!s100 ?L6T[_hQ;YCQDjHO@BQL61
+IKTm0zNViVicCVLL@KokBG1
+R1
+R2
+w1485260635
+8C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/control.v
+FC:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/control.v
+L0 8
+R3
+r1
+!s85 0
+31
+Z10 !s108 1485261762.000000
+!s107 C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/control.v|
+!i113 1
+R5
+R6
+vmips
+R7
+!i10b 1
+!s100 7^gIWU749^Ino8EAA:V@G0
+I4E`neg=OG=BD`dRB0j3dj3
+R1
+R2
+w1484593553
+8C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/mips.v
+FC:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/mips.v
+L0 9
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/mips.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/mips.v|
+!i113 1
+R5
+R6
+vprogram_counter
+R0
+!i10b 1
+!s100 4_:DCI4T=4?<_UY;Yf18L0
+IJPYWegKSCa@AOlSGYba4<2
+R1
+R2
+w1484592284
+8C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/program_counter.v
+FC:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/program_counter.v
+L0 7
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/program_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/program_counter.v|
+!i113 1
+R5
+R6
+vreg_bank
+R9
+!i10b 1
+!s100 B[EkV<k]]@2XWHV9@_DjR0
+IYjeQ307XUi[lQCkf3j8QT0
+R1
+R2
+w1485261759
+8C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/reg_bank.v
+FC:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/reg_bank.v
+L0 8
+R3
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/reg_bank.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Source/reg_bank.v|
+!i113 1
+R5
+R6
+vtb_adder_32_bit
+R7
+!i10b 1
+!s100 :=CH>MTWT@B<[IAOYm9dL3
+In>iGVMC6cP4;]?Kd=oIi12
+R1
+R2
+w1484483627
+8C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Testbench/tb_adder_32_bit.v.v
+FC:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Testbench/tb_adder_32_bit.v.v
+Z11 L0 12
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Testbench/tb_adder_32_bit.v.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Testbench/tb_adder_32_bit.v.v|
+!i113 1
+R5
+R6
+vtb_instruction_incrementer
+R7
+!i10b 1
+!s100 Q`SS7Mk7N3<n3oQVn^AGO0
+Ig5zO[ifl@?JYQNKdSi<d<3
+R1
+R2
+w1484487456
+8C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Testbench/tb_instruction_incrementer.v
+FC:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Testbench/tb_instruction_incrementer.v
+R11
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Testbench/tb_instruction_incrementer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Testbench/tb_instruction_incrementer.v|
+!i113 1
+R5
+R6
+vtb_memory
+R7
+!i10b 1
+!s100 9c?WeD?gTVJE0gUI0NBD=0
+IdS^FZ:Z00SkT7zNHXB[=m0
+R1
+R2
+w1484493139
+8C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Testbench/tb_memory.v
+FC:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Testbench/tb_memory.v
+R11
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Testbench/tb_memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Testbench/tb_memory.v|
+!i113 1
+R5
+R6
+vtb_mips
+R7
+!i10b 1
+!s100 :S0mT>I?oeA9=VA?jb7bn2
+Ii5QemLNbN4`LbI6hog:[N3
+R1
+R2
+w1484593525
+8C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Testbench/tb_mips.v
+FC:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Testbench/tb_mips.v
+R11
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Testbench/tb_mips.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Testbench/tb_mips.v|
+!i113 1
+R5
+R6
+vtb_program_counter
+R9
+!i10b 1
+!s100 7ZR:EDMLS?@gF8W0l?Nl30
+I[32UL>PHWl<<BgWQ]3[_P1
+R1
+R2
+w1484502881
+8C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Testbench/tb_program_counter.v
+FC:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Testbench/tb_program_counter.v
+R11
+R3
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Testbench/tb_program_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/BilboBaggins/Documents/Share/mips-cpu/src/Testbench/tb_program_counter.v|
+!i113 1
+R5
+R6
